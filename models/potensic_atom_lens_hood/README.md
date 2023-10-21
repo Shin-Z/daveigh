@@ -8,6 +8,8 @@ Currently maintained by [Shin ZHENG](shin.zheng@foxmail.com).
 
 The lens hood snapped onto the Potensic Atom gimbal camera, used to avoid glare or lens flares.
 
+The hood is designed according to the 78° diagonal FoV of Atom gimbal camera, and there's no risk of vignetting.
+
 NOTE: I can not make the hood thinner cause most of the SLA 3d printers have minimum thickness of 0.8mm(or result in incomplete print surface).
 
 Use and test with caution!
