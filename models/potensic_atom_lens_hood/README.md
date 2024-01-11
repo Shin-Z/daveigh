@@ -10,6 +10,8 @@ The lens hood snapped onto the Potensic Atom gimbal camera, used to avoid glare 
 
 The hood is designed according to the 78° diagonal FoV of Atom gimbal camera, and there's no risk of vignetting.
 
+Update: New tube version, which is shorter than the petal, could avoid the blockage issue but less effective for avoiding glare.
+
 NOTE: I can not make the hood thinner cause most of the SLA 3d printers have minimum thickness of 0.8mm(or result in incomplete print surface).
 
 Use and test with caution!
@@ -18,7 +20,7 @@ I can not guarantee the full compatibility of printed models, the use of all mod
 
 ## Known Issues
 
-Do **NOT** put the drone on the ground until the drone finished gimbal self test(right after you turned the drone on), cause the hood will hit the ground and block the gimbal.
+If you use the petal version, do **NOT** put the drone on the ground until the drone finished gimbal self test(right after you turned the drone on), cause the hood will hit the ground and block the gimbal.
 
 It Generally works perfectly on my Potensic Atom, there are potential problems by installing a hood on your gimbal:
 
