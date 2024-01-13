@@ -10,7 +10,7 @@ The adapter for Potensic Atom series remote controller, the standard tripod bolt
 
 The main purpose of the adapter is attaching a tablet holder, the hump on the right bottom side could fit into the hole on the remote controller of Atom series and make the adapter stable enough for tablet.
 
-There are two version of screw: 1/4"-20 UNC and 3/8"-16 UNC thread(ISO 1222:2010). 
+There are two version of bolt: 1/4"-20 UNC and 3/8"-16 UNC thread(ISO 1222:2010). 
 
 Use and test with caution!
 
@@ -18,11 +18,11 @@ I can not guarantee the full compatibility of printed models, the use of all mod
 
 ## Known Issues
 
-Using a high precision SLA 3d printers is highly recommended, and make sure your 3D printer could print a decent thread.
+Using a high precision SLA 3d printers is highly recommended, and make sure your 3D printer could print decent threads.
 
 There are also few tricks to make it work for low precision printer:
 
-- Print a 3/8" screw version and use a 3/8"-1/4" screw adapter.
+- Print the 3/8" version and use a 3/8"-1/4" screw adapter.
 
 - Modify the model and remove the thread yourself, then install a 3/8" or 1/4" nut.
 
