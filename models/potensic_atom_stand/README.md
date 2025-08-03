@@ -22,7 +22,7 @@ It is highly recommended to use a high-precision SLA 3D printer and ensure your 
 
 Compatibility note:
 
-- When used with the Atom2, the drone may not fit perfectly around the hump near the ToF sensor.
+- When used with Atom1 or Atom2, the drone may not fit perfectly around the hump near the ToF sensor.
 
 If you find any other issues, please let me know and I will try to fix them: shin.zheng@foxmail.com
 
